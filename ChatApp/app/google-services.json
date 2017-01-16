@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "411087183581",
+    "firebase_url": "https://university-mobile-app.firebaseio.com",
+    "project_id": "university-mobile-app",
+    "storage_bucket": "university-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411087183581:android:fea95652ccd7f20e",
+        "android_client_info": {
+          "package_name": "com.univ.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411087183581-8d95tpsmre86rf56f3go1d97qekubhni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGnvx4noca_qEM6-3-PpGPns-dJR-eRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
